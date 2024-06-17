@@ -1,0 +1,1 @@
+Write a code (Apex Trigger) that searches for records in the Account object where Name = “Acme Inc” and updates the NumberOfEmployees field with the number of contacts linked to the account. The trigger is when a Contact record is linked/unlinked to the ”Acme Inc” Account records.
